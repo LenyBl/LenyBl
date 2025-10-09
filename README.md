@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1>TEST</h1>
+<h1 color="red">TEST</h1>
 <!--
 **LenyBl/LenyBl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
