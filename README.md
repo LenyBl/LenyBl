@@ -39,13 +39,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![LenyBl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LenyBl&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenyBl&layout=compact&theme=tokyonight)
-
----
-
 ## 🌍 Connect With Me
 
 📎 [Portfolio](https://www.leny-blee.fr/)  
